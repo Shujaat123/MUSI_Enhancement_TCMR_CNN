@@ -1,3 +1,8 @@
+## cite
+Front. Physiol., 14 November 2022
+Sec. Computational Physiology and Medicine
+Volume 13 - 2022 | https://doi.org/10.3389/fphys.2022.961571
+
 # MUSI_Enhancement_TCMR_CNN
 Medical Ultrasound Image Speckle Reduction and Resolution Enhancement Using Texture Compensated Multi-Resolution Convolution Neural Network
 
